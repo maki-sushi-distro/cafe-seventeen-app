@@ -1,12 +1,11 @@
-<div>
-  <img src="public/images/cafeseventeen.png" alt="logo">
-  </img>
+<div align="center">
+  <img src="public/images/cafeseventeen.png" alt="Cafe Seventeen Banner" width="100%">
 </div>
 
 ---
 
 <div align="center">
-  <h4>
-    Good ideas start with brainstorming. Great Ideas start with Coffee. ♥️
-  </h4>
+
+> *“Good ideas start with brainstorming. Great Ideas start with Coffee.”* ♥️
+
 </div>
