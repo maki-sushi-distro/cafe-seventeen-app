@@ -1,4 +1,4 @@
 <div>
-  <img src="images/cafeseventeen.png" alt="logo">
+  <img src="public/images/cafeseventeen.png" alt="logo">
   </img>
 </div>
