@@ -1,3 +1,4 @@
-<h1>
- Cafe SEVENTEEN
-</h1>
+<div>
+  <img src="images/cafeseventeen.png" alt="logo">
+  </img>
+</div>
