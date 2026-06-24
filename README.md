@@ -5,8 +5,8 @@
 
 ---
 
-<div >
-  <h4 style="text-align: center; color: red">
+<div align="center">
+  <h4>
     Good ideas start with brainstorming. Great Ideas start with Coffee. ♥️
   </h4>
 </div>
