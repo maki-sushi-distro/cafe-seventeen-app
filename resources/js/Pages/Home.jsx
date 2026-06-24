@@ -1,3 +1,6 @@
+import React from "react";
+import Header from "../Components/Header";
+
 export default function Home() {
     return (
         <div className="flex items-center justify-center min-h-screen bg-gray-100">
